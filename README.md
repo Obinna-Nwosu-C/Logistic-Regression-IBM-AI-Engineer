@@ -71,4 +71,4 @@ Here is what the data tells us:
 
 The Big Takeaway: More features do not equal a better model. Removing a noisy, irrelevant feature (equip) improved the model's performance drastically more than adding new features did.
 
-
+Course Participant/Code Executor: Obinna Nwosu C, Author: Jeff Grossman, Other Contributor(s): Abhishek Gagneja, © IBM Corporation. All rights reserved.
